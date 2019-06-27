@@ -5,3 +5,4 @@ print(a,b,c)
 d=b-a-b
 print(d)
 print("d doit être égalà 0 !")
+print("est ce que cette modification se verra ??")
